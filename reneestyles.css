@@ -1,0 +1,14 @@
+/* Theme by Renee! */
+* { box-sizing: border-box; }
+body, html { padding: 0; margin: 0; font-family: sans-serif; min-height: 100vh; height: auto; position: relative; }
+header { background: #c8102e; color: #fff; padding: 20px; }
+header h1 { padding: 0px; margin: 0px; font-weight: normal; font-family: Georgia, serif; }
+header nav { padding-top: 10px; }
+header nav a { color: #fff; padding-right: 10px; }
+article section { padding: 20px; }
+article header { background: #ddd; color: #000; }
+article { color: #111; position: relative; }
+article header p { margin-bottom: 0px; margin-top: 15px; }
+footer { position: absolute; width: 100%; bottom: 0; }
+footer .sponsors { color: #fff; background: #444; padding: 10px 20px; }
+footer .copyright { color: #eee; background: #111; padding: 10px; text-align: center; }
