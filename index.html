@@ -14,10 +14,12 @@ layout: default
     {% for post in site.posts %}
       <li>
         <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
-
+          &mdash;
         <h2>
           <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
         </h2>
+        &mdash;
+        {{ post.excerpt }} <a class="post-readmore-link" href="{{ post.url | prepend: site.baseurl }}">Read More</a>
       </li>
     {% endfor %}
   </ul>

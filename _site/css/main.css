@@ -14,3 +14,10 @@ article header p { margin-bottom: 0px; margin-top: 15px; }
 footer { position: absolute; width: 100%; bottom: 0; }
 footer .sponsors { color: #fff; background: #444; padding: 10px 20px; }
 footer .copyright { color: #eee; background: #111; padding: 10px; text-align: center; }
+.post-list { padding: 0px; list-style-type: none; margin: 0px; }
+.post-list li { border-bottom: 1px solid #eee; padding: 20px 0px; }
+.post-list li:nth-child(1) { padding-top: 0px; }
+.post-list li h2 { display: inline-block; font-size: 1.25em; margin: 0px; padding: 0px; }
+.post-list li span { color: #555; font-style: italic; }
+.post-list li p { padding: 0px; margin: 0px; display: inline; }
+.post-readmore-link { font-style: italic; }
