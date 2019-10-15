@@ -12,7 +12,8 @@ article header, .home-bloglist header { background: #ddd; color: #000; }
 article { color: #111; position: relative; }
 article header p { margin-bottom: 0px; margin-top: 15px; }
 footer { position: absolute; width: 100%; bottom: 0; }
-footer .sponsors { color: #fff; background: #444; padding: 10px 20px; }
+footer .sponsors { color: #fff; background: #444; padding: 10px 20px; text-align: center; }
+footer .sponsors img { height: 50px; }
 footer .copyright { color: #eee; background: #111; padding: 10px; text-align: center; }
 .post-list { padding: 0px; list-style-type: none; margin: 0px; }
 .post-list li { border-bottom: 1px solid #eee; padding: 20px 0px; }
