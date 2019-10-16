@@ -19,7 +19,7 @@ layout: default
           <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
         </h2>
         &mdash;
-        {{ post.excerpt }} <a class="post-readmore-link" href="{{ post.url | prepend: site.baseurl }}">Read More</a>
+        {{ post.excerpt | strip_html | trip_newlines | truncate: 156 }} <a class="post-readmore-link" href="{{ post.url | prepend: site.baseurl }}">Read More</a>
       </li>
     {% endfor %}
   </ul>
