@@ -7,6 +7,7 @@ header nav { padding-top: 10px; }
 header nav a { color: #fff; padding-right: 10px; }
 a { color: #000; text-decoration: underline; }
 .primary-cta { background: #8f0c21; color: #fff; padding: 20px; }
+.primary-cta h1 { margin-top: 0px; }
 article section, .home-bloglist section { padding: 20px; }
 article section:nth-child(odd) { background: #eee; }
 article header, .home-bloglist header { background: #ddd; color: #000; }
