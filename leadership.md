@@ -2,7 +2,7 @@
 layout: page 
 title: Leadership
 permalink: /leadership/
-customcss: .post-content li { margin: 0px 5px; }
+lishenananigans: giant
 ---
 
 # Officers
