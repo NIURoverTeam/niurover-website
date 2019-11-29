@@ -2,7 +2,7 @@
 layout: page 
 title: Leadership
 permalink: /leadership/
-lishenananigans: giant
+lishenanigans: giant
 ---
 
 # Officers
