@@ -9,7 +9,7 @@ a { color: #000; text-decoration: underline; }
 .primary-cta { background: #8f0c21; color: #fff; padding: 1px 20px; }
 .primary-cta h1 { font-family: Georgia, serif; font-weight: normal; }
 article section, .home-bloglist section { padding: 20px; }
-article section:nth-child(odd) { background: #eee; }
+article section:nth-child(even) { background: #eee; }
 article header, .home-bloglist header { background: #ddd; color: #000; }
 article { color: #111; position: relative; }
 article header p { margin-bottom: 0px; margin-top: 15px; }
