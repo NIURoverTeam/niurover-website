@@ -9,7 +9,7 @@
         {% endfor %}
 		 {% for sub_page in site["about"] %}
 		 {% if sub_page.title %}
-		 <a href="{{ subpage.url | prepend: site.baseurl }}">COLLECTIONPAGE :: {{ subpage.title }}</a>
+		 <a href="{{ sub_page.url | prepend: site.baseurl }}">COLLECTIONPAGE :: {{ sub_page.title }}</a>
 		 {% endif %}
 		 {% endfor %}
          </nav>
