@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Fall 2019 Rover Report"
-date:   2019-10-04 17:58:22 -0500
+date:   2019-12-04 17:58:22 -0500
 ---
 
 ## Welcome to the Fall 2019 Rover Report! This report will provide an overview of important events and achievements taking place in the past few months. In the next semester, The Rover Report will resume as a monthly newsletter. For now, onto the news!
