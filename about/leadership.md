@@ -1,7 +1,7 @@
 ---
 layout: page 
 title: Leadership
-permalink: /leadership/
+permalink: /about/leadership/
 lishenanigans: giant
 ---
 
