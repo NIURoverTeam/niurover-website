@@ -19,3 +19,11 @@ github_username:  jekyll
 
 # Build settings
 markdown: kramdown
+
+collections:
+  join:
+    output: true
+    permalink: /join/:name
+  about:
+    output: true
+    permalink: /about/:name
