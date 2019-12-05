@@ -4,8 +4,13 @@
             <a href="{{ site.baseurl }}/">Home</a>
 {% for my_page in site.pages %}
           {% if my_page.title %}
-	<a href="{{ my_page.url | prepend: site.baseurl }}">{{ my_page.collection }} / {{ my_page.title }}</a>
+	<a href="{{ my_page.url | prepend: site.baseurl }}">{{ my_page.title }}</a>
 {% endif %}
         {% endfor %}
+		 {% for sub_page in site.join %}
+		 {% if sub_page.title %}
+		 <a href="{{ subpage.url | prepend: site.baseurl }}">JOIN :: {{ subpage.title }}</a>
+		 {% endif %}
+		 {% endfor %}
          </nav>
       </header>
