@@ -7,9 +7,16 @@
 	<a href="{{ my_page.url | prepend: site.baseurl }}">{{ my_page.title }}</a>
 {% endif %}
         {% endfor %}
+		 <br><b>ABOUT:</b>
 		 {% for sub_page in site.about %}
 		 {% if sub_page.title %}
-		 <a href="{{ sub_page.url | prepend: site.baseurl }}">COLLECTIONPAGE :: {{ sub_page.title }}</a>
+		 <a href="{{ sub_page.url | prepend: site.baseurl }}">{{ sub_page.title }}</a>
+		 {% endif %}
+		 {% endfor %}
+		 <br><b>JOIN:</b>
+		 {% for sub_page in site.join %}
+		 {% if sub_page.title %}
+		 <a href="{{ sub_page.url | prepend: site.baseurl }}">{{ sub_page.title }}</a>
 		 {% endif %}
 		 {% endfor %}
          </nav>
