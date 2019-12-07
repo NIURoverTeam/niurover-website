@@ -1,6 +1,6 @@
 ---
 layout: page 
-title: Mechanical Team
+title: Mechanical
 permalink: /join/maechanical/
 ---
 
