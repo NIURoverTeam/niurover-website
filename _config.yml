@@ -9,11 +9,9 @@
 title: NIU Mars Rover
 email: niurover@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
-baseurl: "/niurover-website" # the subpath of your site, e.g. /blog
-url: "http://waffleston.github.io" # the base hostname & protocol for your site
+  Open to all majors, the NIU Mars Rover team is a student organization in NIU’s College of Engineering and Engineering Technology. This team offers students education and experience relating to the design, fabrication, and integration of mechanical, electrical, and computer systems relevant to our rover’s operation. Our main competition is the University Rover Challenge, held each year in May.
+baseurl: "/" # the subpath of your site, e.g. /blog
+url: "https://niurover.com" # the base hostname & protocol for your site
 twitter_username: jekyllrb
 github_username:  jekyll
 
