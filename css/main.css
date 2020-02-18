@@ -8,7 +8,7 @@ header nav a { color: #fff; text-decoration: none; padding: 5px;}
 header nav a:hover { background: #eee; color: #111; }
 header nav ul { padding: 0px; margin: 0px; }
 header nav li { display: inline-block; position: relative; }
-header nav .dropdown-menu { display: none; position: absolute; padding: 5px; background: rgba(200, 16, 46, 0.8); box-shadow: 0 6px 12px rgba(0,0,0,.175); border: 1px solid rgba(0,0,0,.15); margin-top: 5px; width: 200px; }
+header nav .dropdown-menu { display: none; position: absolute; padding: 5px; background: rgba(200, 16, 46, 0.8); box-shadow: 0 6px 12px rgba(0,0,0,.175); border: 1px solid rgba(0,0,0,.15); margin-top: 5px; width: 200px; z-index: 1000; }
 header nav .open .dropdown-menu { display: block; }
 header nav .dropdown-menu li a, header nav .dropdown-menu li { display: block; }
 header nav .dropdown-menu li a:hover { background: rgba(143, 12, 43, 0.8); color: #fff; }
