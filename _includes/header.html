@@ -1,25 +1,31 @@
 <header>
          <h1>{{ site.title }}</h1>
          <nav>
-            <a href="{{ site.baseurl }}/">Home</a>
+				<ul>
+            	<li><a href="{{ site.baseurl }}/">Home</a></li>
 {% for my_page in site.pages %}
           {% if my_page.title %}
-	<a href="{{ my_page.url | prepend: site.baseurl }}">{{ my_page.title }}</a>
+					<li><a href="{{ my_page.url | prepend: site.baseurl }}">{{ my_page.title }}</a></li>
 {% endif %}
         {% endfor %}
-		 <div><b>About:</b>
+		 <li class="dropdown"><a aria-expanded="false" arai-haspopup="true" data-toggle="dropdown" href="#" role="button">About</a>
+		 <ul class="dropdown-menu">
 		 {% for sub_page in site.about %}
 		 {% if sub_page.title %}
-		 <a href="{{ sub_page.url | prepend: site.baseurl }}">{{ sub_page.title }}</a>
+		 <li><a href="{{ sub_page.url | prepend: site.baseurl }}">{{ sub_page.title }}</a></li>
 		 {% endif %}
 		 {% endfor %}
-		 </div>
-		 <div><b>Join Us:</b>
+		 </ul>
+		 </li>
+		 <li class="dropdown"><a aria-expanded="false" aria-haspopup="true" data-toggle="dropdown" href="#" role="button">Join Us</a>
+		 <ul class="dropdown-menu">
 		 {% for sub_page in site.join %}
 		 {% if sub_page.title %}
-		 <a href="{{ sub_page.url | prepend: site.baseurl }}">{{ sub_page.title }}</a>
+		 <li><a href="{{ sub_page.url | prepend: site.baseurl }}">{{ sub_page.title }}</a></li>
 		 {% endif %}
 		 {% endfor %}
-		 </div>
-         </nav>
-      </header>
+		 </ul>
+		 </li>
+		 		</ul>
+			</nav>
+		</header>

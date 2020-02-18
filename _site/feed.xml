@@ -2,82 +2,65 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>NIU Mars Rover</title>
-    <description>Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.
+    <description>Open to all majors, the NIU Mars Rover team is a student organization in NIU’s College of Engineering and Engineering Technology. This team offers students education and experience relating to the design, fabrication, and integration of mechanical, electrical, and computer systems relevant to our rover’s operation. Our main competition is the University Rover Challenge, held each year in May.
 </description>
-    <link>http://waffleston.github.io/niurover-website/</link>
-    <atom:link href="http://waffleston.github.io/niurover-website/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sat, 02 Nov 2019 14:22:24 -0500</pubDate>
-    <lastBuildDate>Sat, 02 Nov 2019 14:22:24 -0500</lastBuildDate>
+    <link>https://niurover.com/</link>
+    <atom:link href="https://niurover.com/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Tue, 18 Feb 2020 14:24:17 -0600</pubDate>
+    <lastBuildDate>Tue, 18 Feb 2020 14:24:17 -0600</lastBuildDate>
     <generator>Jekyll v3.1.6</generator>
     
       <item>
-        <title>Super Long Post (for Testing Purposes)</title>
-        <description>&lt;h1 id=&quot;hello&quot;&gt;Hello&lt;/h1&gt;
-&lt;h2 id=&quot;world&quot;&gt;World&lt;/h2&gt;
-&lt;p&gt;This is an example post that is designed to exceed the limits of a generic screen.  The purpose of exploring this possibility is to determine if the current css rules are sufficient in providing space for the footer at the bottom of the page.&lt;/p&gt;
+        <title>January 2020 Rover Report</title>
+        <description>&lt;h2 id=&quot;happy-new-year-from-the-niu-mars-rover-team-as-we-enter-our-spring-2020-semester-we-have-a-few-updates-on-our-progress-over-the-break&quot;&gt;Happy New Year from the NIU Mars Rover Team! As we enter our Spring 2020 semester, we have a few updates on our progress over the break.&lt;/h2&gt;
 
-&lt;h2 id=&quot;rover&quot;&gt;Rover&lt;/h2&gt;
+&lt;h3 id=&quot;rover-updates&quot;&gt;Rover Updates&lt;/h3&gt;
+&lt;p&gt;First up is our Science Task, which has seen a finalization on their soil sampling method. We will now be using what is known as an “Archimedes screw”, a design that originates from the technique that farmers use to store grain.  An Archimedes screw is a screw conveyor that carries the material from the ground to the silo with simply an auger and a hollow pipe. The screw conveyor will deploy using a ball bearing carriage and a linear guide rail. Once the carriage is deployed, a motor-controlled spool will pull the conveyor into its original position. You can view some pictures of the new design below. &lt;/p&gt;
 
-&lt;p&gt;Lorem ipsum dolor sit amet.  Consectetur shenanigans I don’t know the rest.  However, pi to a certain number of digits is three point one four one five nine two six five three five eight nine.  What else do I have memorized?&lt;/p&gt;
+&lt;p&gt;In addition to the Science Task, the Computer Science team has a few updates. The NVIDIA Jetson Nanos are now up and running, and we have the last of our sensors. With a new Realsense 2 camera we can now collect IMU data, which we will use with our new LIDAR system for accurate robot localization.&lt;/p&gt;
 
-&lt;h2 id=&quot;literally-nothing&quot;&gt;Literally Nothing&lt;/h2&gt;
+&lt;p&gt;In the coming months, we’ll focus on finishing the Rover’s electrical system, manufacturing the science task, and finalizing our manipulator design. &lt;/p&gt;
 
-&lt;h3 id=&quot;aside-on-fortran-as-a-programming-language&quot;&gt;Aside on Fortran as a Programming Language&lt;/h3&gt;
+&lt;h3 id=&quot;other-news&quot;&gt;Other News&lt;/h3&gt;
+&lt;p&gt;The new NIU Mars Rover website is now live! You can visit us at niurover.com. Future Rover Reports will be posted there as blog posts, as well as being sent out as a newsletter. 
+We are in the process of designing a new t-shirt for fundraising. All students on the team are encouraged to submit a design!&lt;/p&gt;
 
-&lt;p&gt;Proin mollis fermentum blandit. Donec ac diam sed dui fringilla fringilla eu et elit. Aenean pretium vitae metus a rutrum. Aliquam ullamcorper ultrices dapibus. Aenean facilisis sollicitudin diam, a gravida enim. Morbi tincidunt sed ex nec volutpat. Nunc et tellus eget arcu interdum placerat eget ut dui. Sed vulputate, ante at bibendum luctus, tellus nulla eleifend nibh, id imperdiet enim mi nec augue. Proin orci lectus, ullamcorper id enim id, fermentum pellentesque lorem. Aenean ac neque nec nibh tincidunt mattis. Vivamus quam lacus, malesuada vel accumsan vestibulum, aliquam dignissim mi. Morbi quis egestas lectus. Praesent a dui sed dolor mattis faucibus eu sit amet orci.&lt;/p&gt;
-
-&lt;h3 id=&quot;aside-on-vi-as-a-text-editor&quot;&gt;Aside on Vi as a Text Editor&lt;/h3&gt;
-
-&lt;p&gt;Aenean lobortis nec enim eu sagittis. Donec et sapien risus. Aenean sodales nisl quis pellentesque rhoncus. Nunc at ipsum sagittis, venenatis est sed, tincidunt massa. Nunc bibendum cursus velit sit amet elementum. Etiam fermentum quam ac nisi mollis, ac suscipit eros accumsan. Nam gravida, risus quis fermentum interdum, nisi nulla pretium libero, a aliquet nisi urna eget orci. Donec non velit ac augue tempus imperdiet. Ut condimentum massa id augue rutrum hendrerit. Sed efficitur diam ligula, id imperdiet nunc euismod eu. Etiam vel odio venenatis erat convallis sagittis. Suspendisse est lorem, vulputate pulvinar dolor ac, ullamcorper suscipit dolor. Pellentesque a orci ac lectus bibendum egestas in non ipsum. In feugiat ultricies tincidunt.&lt;/p&gt;
-
-&lt;h3 id=&quot;another-section&quot;&gt;Another Section&lt;/h3&gt;
-
-&lt;p&gt;Ut ornare bibendum est non porttitor. In consectetur molestie urna, id hendrerit mi venenatis non. Nulla tristique tempus neque sed semper. Quisque tempus nunc vitae leo commodo tincidunt. Maecenas rhoncus bibendum sapien ac aliquet. Nam aliquam libero arcu, ac pharetra neque commodo sit amet. Etiam accumsan nisl et tortor tristique, eu viverra erat luctus.&lt;/p&gt;
-&lt;h2 id=&quot;final-remarks&quot;&gt;Final Remarks&lt;/h2&gt;
-&lt;p&gt;Proin vitae dolor tincidunt, luctus sem eget, bibendum massa. Praesent ut est dui. Morbi ornare, magna sed efficitur mollis, sem nibh lacinia lectus, quis fermentum ligula quam et leo. Maecenas ut odio sed lectus malesuada tempus non sed lacus. Etiam lobortis pulvinar pulvinar. Vivamus et lorem nec purus rutrum aliquet ac quis urna. Pellentesque scelerisque, nisi nec scelerisque imperdiet, nisl purus auctor leo, ut ullamcorper erat nisl vel ipsum. Cras aliquam augue egestas felis feugiat volutpat. Nulla facilisi.&lt;/p&gt;
+&lt;h2 id=&quot;and-as-always-thank-you-to-our-sponsors&quot;&gt;And as always, thank you to our sponsors!&lt;/h2&gt;
 </description>
-        <pubDate>Wed, 16 Oct 2019 18:24:00 -0500</pubDate>
-        <link>http://waffleston.github.io/niurover-website/2019/10/16/super-long-post.html</link>
-        <guid isPermaLink="true">http://waffleston.github.io/niurover-website/2019/10/16/super-long-post.html</guid>
+        <pubDate>Wed, 22 Jan 2020 09:14:22 -0600</pubDate>
+        <link>https://niurover.com/2020/01/22/rover-report-jan.html</link>
+        <guid isPermaLink="true">https://niurover.com/2020/01/22/rover-report-jan.html</guid>
         
         
       </item>
     
       <item>
-        <title>Welcome to Jekyll!</title>
-        <description>&lt;p&gt;You’ll find this post in your &lt;code class=&quot;highlighter-rouge&quot;&gt;_posts&lt;/code&gt; directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run &lt;code class=&quot;highlighter-rouge&quot;&gt;jekyll serve&lt;/code&gt;, which launches a web server and auto-regenerates your site when a file is updated.&lt;/p&gt;
+        <title>Fall 2019 Rover Report</title>
+        <description>&lt;h2 id=&quot;welcome-to-the-fall-2019-rover-report-this-report-will-provide-an-overview-of-important-events-and-achievements-taking-place-in-the-past-few-months-in-the-next-semester-the-rover-report-will-resume-as-a-monthly-newsletter-for-now-onto-the-news&quot;&gt;Welcome to the Fall 2019 Rover Report! This report will provide an overview of important events and achievements taking place in the past few months. In the next semester, The Rover Report will resume as a monthly newsletter. For now, onto the news!&lt;/h2&gt;
 
-&lt;p&gt;To add new posts, simply add a file in the &lt;code class=&quot;highlighter-rouge&quot;&gt;_posts&lt;/code&gt; directory that follows the convention &lt;code class=&quot;highlighter-rouge&quot;&gt;YYYY-MM-DD-name-of-post.ext&lt;/code&gt; and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.&lt;/p&gt;
+&lt;h3 id=&quot;new-membership&quot;&gt;New Membership&lt;/h3&gt;
 
-&lt;p&gt;Jekyll also offers powerful support for code snippets:&lt;/p&gt;
+&lt;p&gt;First things first, we’ve had changes in membership with semester, beginning with our current executive board. We would like to introduce our new Co-Vice President Nick Rancher, who will work alongside Co-Vice President Clare Keough. We also have our new secretary, Spencer Heckman! Welcome to the executive board!&lt;/p&gt;
 
-&lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-ruby&quot; data-lang=&quot;ruby&quot;&gt;&lt;span class=&quot;k&quot;&gt;def&lt;/span&gt; &lt;span class=&quot;nf&quot;&gt;print_hi&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;name&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
-  &lt;span class=&quot;nb&quot;&gt;puts&lt;/span&gt; &lt;span class=&quot;s2&quot;&gt;&quot;Hi, &lt;/span&gt;&lt;span class=&quot;si&quot;&gt;#{&lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;name&lt;/span&gt;&lt;span class=&quot;si&quot;&gt;}&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&quot;&lt;/span&gt;
-&lt;span class=&quot;k&quot;&gt;end&lt;/span&gt;
-&lt;span class=&quot;n&quot;&gt;print_hi&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;s1&quot;&gt;&#39;Tom&#39;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
-&lt;span class=&quot;c1&quot;&gt;#=&amp;gt; prints &#39;Hi, Tom&#39; to STDOUT.&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
+&lt;p&gt;In addition to new eboard members, general club membership has also seen new faces, as events such as the Involvement Fair in back in August let us reach out to new interested students. Between all of the subteams, the NIU Mars Rover team sees around 25 members currently active.&lt;/p&gt;
 
-&lt;p&gt;Check out the &lt;a href=&quot;http://jekyllrb.com/docs/home&quot;&gt;Jekyll docs&lt;/a&gt; for more info on how to get the most out of Jekyll. File all bugs/feature requests at &lt;a href=&quot;https://github.com/jekyll/jekyll&quot;&gt;Jekyll’s GitHub repo&lt;/a&gt;. If you have questions, you can ask them on &lt;a href=&quot;https://talk.jekyllrb.com/&quot;&gt;Jekyll Talk&lt;/a&gt;.&lt;/p&gt;
+&lt;h3 id=&quot;events&quot;&gt;Events&lt;/h3&gt;
+&lt;p&gt;October was a busy month for our team, with two major events that we had to prepare for. On October 19th, we attended NIU’s STEMFest, where we were able to show off Ad Astra. Similar to last year, we brought cardboard alien necklaces to hand out to kids, but ran out within nearly two hours. They were no less popular this year!&lt;/p&gt;
 
+&lt;p&gt;The next weekend was our presentation to ETAS and the CEET Homecoming Tailgate. The ETAS presentation went well, and a huge thank you to ETAS for their donation and continued support for our 2019-2020 goals. After that, the Homecoming Tailgate provided an opportunity show off Ad Astra in action.&lt;/p&gt;
+
+&lt;p&gt;Back in November, we also took a visit to our sponsor Spray Systems Co. to present our Rover, and tell Spraying Systems Co. more details about their funding has benefited our club. Thank you to Spraying Systems Co. for your sponsorship, and for the amazing tour of your facilities during our visit.&lt;/p&gt;
+
+&lt;h3 id=&quot;rover-updates&quot;&gt;Rover Updates&lt;/h3&gt;
+&lt;p&gt;As for our Rover, we have some new developments to report. Our Rover now has the ability to recognize and track AR Tags in 3D space using our Realsense 2 camera! We have also purchased two NVIDIA Jetson Nanos to handle our on board computing, a needed upgrade from our previous older model NVIDIA Jetson TX2. We have acquired new ODrive technology which will work along side the Sabertooth boards getting the Rover’s movement in check, we have changed from LIPO Batteries to LiFeP04 batteries for better power out put and stability, also the electrical system is now being set up with better wiring practices. Finalized designs and models have been made for our Manipulator group as well. As the arm, gripper, and science task finalize their designs,some revisions are also being made to our chassis to accommodate.&lt;/p&gt;
+
+&lt;p&gt;That brings us to the bulk of our work for winter break: manufacturing. With designs ready to be implemented, we will be taking the next several weeks to manufacture and machine them, so that we can be ready to test our design in the Spring semester.&lt;/p&gt;
+
+&lt;h2 id=&quot;and-as-always-thank-you-to-our-sponsors&quot;&gt;And as always, thank you to our sponsors!&lt;/h2&gt;
 </description>
-        <pubDate>Thu, 03 Oct 2019 11:52:22 -0500</pubDate>
-        <link>http://waffleston.github.io/niurover-website/jekyll/update/2019/10/03/welcome-to-jekyll.html</link>
-        <guid isPermaLink="true">http://waffleston.github.io/niurover-website/jekyll/update/2019/10/03/welcome-to-jekyll.html</guid>
-        
-        
-        <category>jekyll</category>
-        
-        <category>update</category>
-        
-      </item>
-    
-      <item>
-        <title>Blog Post in the Past</title>
-        <description>&lt;p&gt;Yeah, this is a nice post.&lt;/p&gt;
-</description>
-        <pubDate>Wed, 02 Oct 2019 11:52:22 -0500</pubDate>
-        <link>http://waffleston.github.io/niurover-website/2019/10/02/example-post-in-the-past.html</link>
-        <guid isPermaLink="true">http://waffleston.github.io/niurover-website/2019/10/02/example-post-in-the-past.html</guid>
+        <pubDate>Wed, 04 Dec 2019 16:58:22 -0600</pubDate>
+        <link>https://niurover.com/2019/12/04/rover-report-fall.html</link>
+        <guid isPermaLink="true">https://niurover.com/2019/12/04/rover-report-fall.html</guid>
         
         
       </item>
