@@ -42,37 +42,16 @@ footer .copyright { color: #eee; background: #111; padding: 10px; text-align: ce
   }
 }
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+.caret {
+    display: inline-block;
+    width: 0;
+    height: 0;
+    margin-left: 4px;
+    vertical-align: middle;
+    border-top: 6px dashed;
+    border-top: 6px solid;
+    border-right: 6px solid 
+transparent;
+border-left: 6px solid
+    transparent;
+}
