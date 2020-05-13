@@ -17,9 +17,9 @@ liprofile: true
 * Hal Brynteson
   * ![](/images/hal.png)
   * **Vice President**
-  * (Year)
-  * (Major)
-* Leif
+  * Junior
+  * Computer Science Major
+* Leif Verace
   * ![](/images/leif.png)
   * **Secretary**
   * (Year)
