@@ -2,7 +2,15 @@
 layout: default
 ---
 <article class="post">
-  <style>{% if page.liprofile %}.post-content < ul < li { margin: 10px; padding: 10px; background: #eee; } {% endif %}</style>
+  <style>
+    {% if page.liprofile %}
+    .post-content > ul { text-align: center }
+    .post-content > ul > li { vertical-align: bottom; height: 300px; width: 150px; display: inline-block; margin: 10px; padding: 10px; background: #eee; list-style: none; position: relative; padding-top: 120px; }
+    li > ul > li { list-style: none; margin: 0px; margin-bottom: 10px; padding: 0px; }
+    li > ul { margin: 0px; margin-top: 10px; padding: 0px; }
+    li > ul > li:first-child img { position: absolute; top: 0px; width: 80px; height: 80px; border-radius: 40px; background: #aaa; }
+    {% endif %}
+  </style>
   <header class="post-header">
     <h1 class="post-title">{{ page.title }}</h1>
     {% if page.calltoaction %}<p class="post-calltoaction">{{ page.calltoaction }}</p>{% endif %}
