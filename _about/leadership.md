@@ -2,7 +2,7 @@
 layout: page 
 title: Leadership
 permalink: /about/leadership/
-lishenanigans: profiles
+liprofile: true
 ---
 # 2020-2021 Officers
 * Iman Salehinia
