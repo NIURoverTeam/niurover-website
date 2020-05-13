@@ -9,7 +9,6 @@ liprofile: true
   * Faculty Advisor
   * Assistant Professor
 * Ryan Lewis
-  * ![](img/rlewis.png)
   * President
   * Grad Student
   * Computer Science
@@ -26,6 +25,7 @@ liprofile: true
   * Junior
   * Mechanical Engineering Major
 * Ren&eacute;e Sonntag
+  * ![](/images/renee.png)
   * Webmaster
   * Senior
   * Computer Science Major
