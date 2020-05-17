@@ -18,7 +18,7 @@ liprofile: true
   * ![](/images/hal.png)
   * **Vice President**
   * Junior
-  * Computer Science Major
+  * Computer Science
 * Leif Verace
   * ![](/images/leif.png)
   * **Secretary**
@@ -27,13 +27,13 @@ liprofile: true
 * Erik Goes
   * ![](/images/erik.png)
   * **Treasurer**
-  * (Year)
-  * (Major)
+  * Junior
+  * Mechanical Engineering
 * Ren&eacute;e Sonntag
   * ![](/images/renee.png)
   * **Webmaster**
   * Senior
-  * Computer Science Major
+  * Computer Science
 
 # 2019-2020 Officers
 * **Faculty Advisor**
