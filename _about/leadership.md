@@ -6,31 +6,31 @@ liprofile: true
 ---
 # 2020-2021 Officers
 * Iman Salehinia
-  * ![](/images/iman.png)
+  * ![](/assets/photos/iman.png)
   * **Faculty Advisor**
   * Assistant Professor
 * Ryan Lewis
-  * ![](/images/ryan.png)
+  * ![](/assets/photos/ryan.png)
   * **President**
   * Grad Student
   * Computer Science
 * Hal Brynteson
-  * ![](/images/hal.png)
+  * ![](/assets/photos/hal.png)
   * **Vice President**
   * Junior
   * Computer Science
 * Leif Verace
-  * ![](/images/leif.png)
+  * ![](/assets/photos/leif.png)
   * **Secretary**
   * (Year)
   * (Major)
 * Erik Goes
-  * ![](/images/erik.png)
+  * ![](/assets/photos/erik.png)
   * **Treasurer**
   * Junior
   * Mechanical Engineering
 * Ren&eacute;e Sonntag
-  * ![](/images/renee.png)
+  * ![](/assets/photos/renee.png)
   * **Webmaster**
   * Senior
   * Computer Science

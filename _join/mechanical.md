@@ -1,7 +1,7 @@
 ---
 layout: page 
 title: Mechanical
-permalink: /join/maechanical/
+permalink: /join/mechanical/
 ---
 
 We design systems for the Rover using SolidWorks. Every system in the Rover is subjected to improvement in design and implementation. There is a weight requirement and many intricate tasks that need to be completed, so parts and designs will need to be thought about carefully. By the end, you will learn how to use SolidWorks, implement general design principles, gain experience and learn valuable skills in doing so.
