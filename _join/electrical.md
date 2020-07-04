@@ -4,4 +4,10 @@ title: Electrical
 permalink: /join/electrical/
 ---
 
-What the Mars Rover Electrical Team does is find solutions for making the Rover function. We design the electrical system of the Mars Rover, which makes the rover function (move, arm operate, and so on.) We are the heart of the rover, we bring the Rover to life. We are looking for people who have experience in building robotics, Physics Majors, Computer Science Majors, Electrical Engineering, and Electrical Engineering Tech Majors.
+<!-- Pic -->
+
+The Mars Rover Electrical Team designs, builds, manages, and tests the electrical systems of our rovers. This includes everything from the motors and controllers that drive the arm and wheels, to power distribution and sensors.
+That work is at the heart of the rover, and critical for it to function properly and safely.
+Members can expect to gain experience with wiring, circuit analysis and design, power distribution, and even potentially Printed Circuit Board design and manufacturing.
+
+We are looking for people who have experience in building robotics or electrical systems, Physics Majors, Computer Science Majors, Electrical Engineering, and Electrical Engineering Tech Majors. All levels of experience are, of course, welcome.
