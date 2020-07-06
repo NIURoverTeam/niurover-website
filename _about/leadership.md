@@ -22,8 +22,8 @@ liprofile: true
 * Leif Verace
   * ![](/assets/photos/leif.png)
   * **Secretary**
-  * (Year)
-  * (Major)
+  * Sophomore
+  * Biology & Mathematics
 * Erik Goes
   * ![](/assets/photos/erik.png)
   * **Treasurer**
