@@ -6,7 +6,7 @@ permalink: /join/electrical/
 
 <!-- Pic -->
 
-The Mars Rover Electrical Team designs, builds, manages, and tests the electrical systems of our rovers. This includes everything from the motors and controllers that drive the arm and wheels, to power distribution and sensors.
+The Electrical subteam designs, builds, manages, and tests the electrical systems of our rovers. This includes everything from motors and controllers to power distribution and sensors.
 That work is at the heart of the rover, and critical for it to function properly and safely.
 Members can expect to gain experience with wiring, circuit analysis and design, power distribution, and even potentially Printed Circuit Board design and manufacturing.
 
