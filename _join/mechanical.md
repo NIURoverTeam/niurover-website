@@ -4,12 +4,16 @@ title: Mechanical
 permalink: /join/mechanical/
 ---
 
-We design systems for the Rover using SolidWorks. Every system in the Rover is subjected to improvement in design and implementation. There is a weight requirement and many intricate tasks that need to be completed, so parts and designs will need to be thought about carefully. By the end, you will learn how to use SolidWorks, implement general design principles, gain experience and learn valuable skills in doing so.
+<!-- Pic -->
 
-When possible most parts undergo a machining process to be manufactured. Most of our current parts in use were made in-house. NIU has a wonderful staff that manages the machine shop and can educate you how to use the machines. They can also offer consultation on designs to give valuable and experienced insight to the manufacturability of a design. You will also have the opportunity to learn how to machine parts safely and correctly.
+The Mechanical Subteam designs, tests, and manufactures the physical and mechanical components of the Rover. This includes the chassis, rocker-bogie, wheels, arm, and more. With a weight requirement and many intricate tasks that need to be completed, parts and designs need to be carefully designed and tested. 
 
-The mechanical team splits off further into the Rocker, Bogie, and Chassis Group, and the Manipulator Group. Ad Astra's Rocker, Bogie, and Chassis are not in active development, so most of the mechanical work is being done on our arm and gripper. 
+Members of the Mechanical Subteam:
 
-We spend a lot of our time designing new systems for the arm and gripper, and putting those ideas into practice. Our team is newcomer friendly, and we're always looking for more help! Whether you're a first semester freshman with no experience or a second year graduate student, you're more than welcome to throw your ideas into the hat!
+* Learn how to design parts in SolidWorks
+* Understand and implement general design principles
+* Get hands on experience in manufacturing and machining
 
-We spend the majority of the Fall semester designing and refining ideas, and start our manufacturing near the end of the semester. All of our manufacturing is hands on, so all team members will be able to help after getting trained in the machine shop.
+We strive to manufacture as much of our rover ourselves as possible, with most of our current parts made in-house. NIU has a wonderful staff that manages the machine shop and can educate new members on how to use various available machines. They also offer consultation on designs to give valuable and experienced insight on manufacturability. Members have the opportunity to learn how to machine parts safely and correctly.
+
+Our team is newcomer friendly, and we're always looking for more help! Whether you're a first semester freshman with no experience or a second year graduate student, you're more than welcome to throw your ideas into the hat! 

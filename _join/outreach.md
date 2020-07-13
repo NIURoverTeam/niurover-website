@@ -4,6 +4,8 @@ title: Outreach
 permalink: /join/outreach/
 ---
 
-The Outreach team is a good fit for folks of all majors. Here, we focus our efforts on maintaining our website, keeping sponsors sponsors updated on our progress, and participating in various outreach related events. Members of this team are aware of the goings-on in the club, and can act as representatives when speaking with both sponsors and prospective new members. This team also handles designing our website, banner, and fundraising items such as t-shirts and water bottles.
+<!-- Pic -->
 
+The Outreach subteam handles designing the website, banner, and fundraising items such as t-shirts and water bottles.  Members present the club to sponsors and prospective new members, keeping tabs on the progress of the other subteams.
 
+Our subteam is a great fit for folks of all majors.  We strive to keep the community engaged, showcase the successes of the club, and help the club get the resources they need.
