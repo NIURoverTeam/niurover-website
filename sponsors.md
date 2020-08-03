@@ -9,6 +9,7 @@ permalink: /sponsors/
 
 We offer a number of benefits for individuals or organizations interested in donating to the team.
 
+
 ## Platinum - $5000+
 
 For donations of $5000 or more, we'll include:
@@ -32,6 +33,10 @@ For donations of $2500 or more, we'll include
 
 * Recognition of the Company/Individual on the Team Website and Social Media
 * Company Logo or Individual's name on the Team Website and Team Apparel
+
+# Sponsorship Contact
+
+All donations made through the NIU Foundation are 501c(3) tax deductable.
 
 Companies and individuals also have the option to donate anonymously, at their discretion. If you're interested in sponsoring the Team at any level, feel free to contact:
 
