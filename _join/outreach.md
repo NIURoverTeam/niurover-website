@@ -1,5 +1,5 @@
 ---
-layout: page 
+layout: page-sharepoint
 title: Outreach
 permalink: /join/outreach/
 ---

@@ -1,5 +1,5 @@
 ---
-layout: page 
+layout: page-sharepoint 
 title: Computer Science
 permalink: /join/cs/
 ---

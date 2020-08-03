@@ -1,5 +1,5 @@
 ---
-layout: page 
+layout: page-sharepoint
 title: Science Task
 permalink: /join/sciencetask/
 ---

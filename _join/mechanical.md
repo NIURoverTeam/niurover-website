@@ -1,10 +1,12 @@
 ---
-layout: page 
+layout: page-sharepoint
 title: Mechanical
 permalink: /join/mechanical/
+cta_background: /assets/photos/mechanical.png
 ---
 
 <!-- Pic -->
+![](/assets/photos/mechanical.png)
 
 The Mechanical Subteam designs, tests, and manufactures the physical and mechanical components of the Rover. This includes the chassis, rocker-bogie, wheels, arm, and more. With a weight requirement and many intricate tasks that need to be completed, parts and designs need to be carefully designed and tested. 
 

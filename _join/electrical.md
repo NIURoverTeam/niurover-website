@@ -1,5 +1,5 @@
 ---
-layout: page 
+layout: page-sharepoint
 title: Electrical
 permalink: /join/electrical/
 ---

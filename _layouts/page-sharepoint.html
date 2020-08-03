@@ -11,13 +11,15 @@ layout: default
     li > ul > li:first-child img { position: absolute; top: 20px; left: 20px;width: 140px; height: 140px; border-radius: 70px; background: #aaa; }
     {% endif %}
   </style>
-  <header class="post-header" {% if page.cta_background %} style="background: url({{ page.cta_background }})" {% endif %}>
+  <header class="post-header" {% if page.cta_background %} style="background-image: linear-gradient(to right, rgba(221, 221, 221, 0.8) 0%, rgba(221, 221, 221, 0.8) 100%), url({{ page.cta_background }}); background-blend-mode: normal;" {% endif %}>
     <h1 class="post-title">{{ page.title }}</h1>
     {% if page.calltoaction %}<p class="post-calltoaction">{{ page.calltoaction }}</p>{% endif %}
   </header>
 
   <section class="post-content">
     {{ content }}
+    <p><button>Register to Join our Team!</button></p>
   </section>
+
 
 </article>
