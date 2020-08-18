@@ -10,22 +10,22 @@ liprofile: true
   * **Faculty Advisor**
   * Assistant Professor
 * Ryan Lewis
-  * ![](/assets/photos/ryan.jpg)
-  * **President**
+  * ![](/assets/photos/Ryan_Lewis.jpg)
+  * **President & Team Lead: CS Subteam**
   * Grad Student
   * Computer Science
 * Hal Brynteson
-  * ![](/assets/photos/hal.jpg)
+  * ![](/assets/photos/HAL_9000.png)
   * **Vice President**
   * Junior
   * Computer Science
 * Leif Verace
-  * ![](/assets/photos/Leif%20Verace%20Pic.jpg)
+  * ![](/assets/photos/Leif%20Verace%20Pic.png)
   * **Secretary**
   * Sophomore
   * Biology & Mathematics
 * Erik Goes
-  * ![](/assets/photos/erik.jpg)
+  * ![](/assets/photos/Erik%20Goes.png)
   * **Treasurer**
   * Junior
   * Mechanical Engineering
@@ -34,6 +34,19 @@ liprofile: true
   * **Webmaster**
   * Senior
   * Computer Science
+  
+# 2020-2021 Team Leads
+* Peter Solomon
+  * ![](/assets/photos/Peter_Solomon.png)
+  * **Electrical Subteam**
+  * Senior
+  * Electrical Engineering
+* Clare Keough
+  * ![](/assets/photos/clare.png)
+  * **Science Task Subteam**
+  * Senior
+  * Mechanical Engineering
+  
 
 # 2019-2020 Officers
 * **Faculty Advisor**
