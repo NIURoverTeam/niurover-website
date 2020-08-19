@@ -18,3 +18,4 @@ Computer Scientists program the components.
 
 Our mission is to evaluate a given environment for the existence of life. We relate research from inhabitable conditions on earth to the conditions that would occur on Mars. We employ the same tactics in our rover that NASA has studied and implemented.
 
+Students interested in joining can fill out the [CEET Student Interest Form](https://fs19.formsite.com/niuform/hnsslqzhsh/index.html). Choose the "Mars Rover Team" and make sure you include in the comment what subteams you're interested in participating in.

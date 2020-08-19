@@ -11,3 +11,5 @@ That work is at the heart of the rover, and critical for it to function properly
 Members can expect to gain experience with wiring, circuit analysis and design, power distribution, and even potentially Printed Circuit Board design and manufacturing.
 
 We are looking for people who have experience in building robotics or electrical systems, Physics Majors, Computer Science Majors, Electrical Engineering, and Electrical Engineering Tech Majors. All levels of experience are, of course, welcome.
+
+Students interested in joining can fill out the [CEET Student Interest Form](https://fs19.formsite.com/niuform/hnsslqzhsh/index.html). Choose the "Mars Rover Team" and make sure you include in the comment what subteams you're interested in participating in.
