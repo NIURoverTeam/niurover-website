@@ -33,6 +33,7 @@ footer .linebreakgroup { display: inline-block; }
 .post-list li span { color: #555; font-style: italic; }
 .post-list li p { padding: 0px; margin: 0px; display: inline; }
 .post-readmore-link { font-style: italic; }
+.post-content img { width: 75%; margin: auto; display: block; margin-bottom: 30px; }
 @media (max-width: 1024px) {
   footer .sponsors img {
     height: 30px;
@@ -45,6 +46,7 @@ footer .linebreakgroup { display: inline-block; }
 }
 @media (max-width: 500px) {
    footer .linebreakgroup { display: inline; }
+   .post-content img { width: 100%; }
 }
 
 .caret {
