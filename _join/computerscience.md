@@ -2,6 +2,7 @@
 layout: page 
 title: Computer Science
 permalink: /join/cs/
+cta_background: /assets/images/cs_background.png
 ---
 
 <!-- Pic -->
