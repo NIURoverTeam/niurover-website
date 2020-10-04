@@ -2,9 +2,11 @@
 layout: page 
 title: Computer Science
 permalink: /join/cs/
+cta_background: /assets/images/cs_background.png
 ---
 
 <!-- Pic -->
+![Computer Science students working on autonomous navigation software](/assets/images/2019_sar_cs.png)
 
 The Computer Science subteam is tasked with the design, development, implementation, and testing of any and all software needed for the Rover's operation. This includes Teleoperation, Autonomous Navigation, Computer Vision, Simultaneous Localization and Mapping (SLAM), User Interface Design, Sensor Integration, Pose Estimation, and more. In order to accomplish this, we use the [Robotic Operating System](https://www.ros.org/), writing code primarily in Python and C++.
 
