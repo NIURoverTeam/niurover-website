@@ -42,7 +42,7 @@ liprofile: true
   * Senior
   * Electrical Engineering
 * Clare Keough
-  * ![](/assets/photos/clare.png)
+  * ![](/assets/photos/clare.jpg)
   * **Science Task Team Lead**
   * Senior
   * Mechanical Engineering
