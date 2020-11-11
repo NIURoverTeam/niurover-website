@@ -26,7 +26,7 @@ liprofile: true
   * Biology & Mathematics
 * Erik Goes
   * ![](/assets/photos/Erik%20Goes.png)
-  * **Treasurer**
+  * **Treasure & Mechanical Team Lead**
   * Junior
   * Mechanical Engineering
 * Ren&eacute;e Sonntag
