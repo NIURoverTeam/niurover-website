@@ -4,45 +4,45 @@ title: Leadership
 permalink: /about/leadership/
 liprofile: true
 ---
-# 2020-2021 Officers
+# 2021-2022 Officers
 * Iman Salehinia
   * ![](/assets/photos/iman.png)
   * **Faculty Advisor**
   * Assistant Professor
-* Ryan Lewis
-  * ![](/assets/photos/Ryan_Lewis.jpg)
-  * **President & CS Team Lead**
-  * Grad Student
-  * Computer Science
+* Chris English
+  * ![](/assets/photos/chris_english.png)
+  * **President**
+  * Sophomore
+  * Mechanical Engineering
+* Leif Verace
+  * ![](/assets/photos/leif_verace.png)
+  * **Vice President & Science Team Lead**
+  * Junior
+  * Biology & Mathematics
 * Hal Brynteson
   * ![](/assets/photos/HAL_9000.png)
-  * **Vice President**
-  * Junior
-  * Computer Science
-* Leif Verace
-  * ![](/assets/photos/Leif%20Verace%20Pic.png)
   * **Secretary**
-  * Sophomore
-  * Biology & Mathematics
-* Erik Goes
-  * ![](/assets/photos/Erik%20Goes.png)
-  * **Treasurer & Mech. Team Lead**
-  * Junior
-  * Mechanical Engineering
-* Ren&eacute;e Sonntag
-  * ![](/assets/photos/renee.png)
-  * **Webmaster**
   * Senior
+  * Computer Science
+* Joel Brinkman
+  * ![](/assets/photos/joel_brinkman.png)
+  * **Treasurer & Elec. Team Lead**
+  * Sophomore
+  * Electrical Engineering
+* Gavin St. George
+  * ![](/assets/photos/gavin_stgeorge.jpg)
+  * **Webmaster**
+  * Junior
   * Computer Science
   
-# 2020-2021 Team Leads
-* Peter Solomon
-  * ![](/assets/photos/Peter_Solomon.png)
-  * **Electrical Team Lead**
-  * Senior
-  * Electrical Engineering
-* Clare Keough
-  * ![](/assets/photos/clare.jpg)
-  * **Science Task Team Lead**
+# 2021-2022 Team Leads
+* Erik Goes
+  * ![](/assets/photos/erik_goes.png)
+  * **Mechanical Team Lead**
   * Senior
   * Mechanical Engineering
+* Drake Provost
+  * ![](/assets/photos/drake_provost.jpg)
+  * **Programming Team Lead**
+  * Junior
+  * Computer Science
