@@ -42,7 +42,7 @@ liprofile: true
   * Senior
   * Mechanical Engineering
 * Drake Provost
-  * ![](/assets/photos/drake_provost.jpg)
+  * ![](/assets/photos/drake_provost.png)
   * **Programming Team Lead**
   * Junior
   * Computer Science
