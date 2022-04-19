@@ -2,9 +2,11 @@
 layout: page 
 title: Electrical
 permalink: /join/electrical/
+cta_background: /assets/images/electrical_background.jpg
 ---
 
 <!-- Pic -->
+![Mechanical team member measuring dimensions on a rover](/assets/images/join_electrical_cover.jpg)
 
 The Electrical subteam designs, builds, manages, and tests the electrical systems of our rovers. This includes everything from motors and controllers to power distribution and sensors.
 That work is at the heart of the rover, and critical for it to function properly and safely.
