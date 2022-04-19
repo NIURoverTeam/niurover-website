@@ -4,7 +4,8 @@ title: Our Goal
 permalink: /join/ourgoals/
 ---
 
-<!-- Happy team pic? -->
+<!-- Happy team pic -->
+![2022 Mars Rover Team](/assets/images/22_rover_team.jpg)
 
 One of our primary goals on the NIU Mars Rover Team is competing in the [University Rover Challenge](http://urc.marssociety.org/). The University Rover Challenge (URC) is a yearly competition that features a wide variety of challenges for the competing teams and their rovers. The URC challenges us to design and build the next generation of Mars rovers, with competition tasks ranging from autonomous, long distance navigation, to sample collection and testing, and more. There are four major tasks to the URC: the Extreme Retrieval and Delivery Task, the Equipment Servicing Task, the Science Task, and the Autonomous Traversal Task. 
 In addition to being able to carry out these tasks, our rover must also fit within certain cost, size, and weight constraints provided by the competition rules. To tackle these challenges, we split into specialized subgroups, which you can read more on in their "About" pages. 
