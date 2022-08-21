@@ -5,26 +5,3 @@ layout: default
   <h1>Welcome to NIU Mars Rover!</h1>
   <p>Open to all majors, the Northern Illinois University Mars Rover Team is a student organization in NIU's College of Engineering and Engineering Technology. The team offers students the opportunity to learn about the design, fabrication, and integration of mechanical, electrical, and computer systems - key aspects of the rover's operation. All of these components come together to perform scientific tasks such as analyzing soil samples for life.  The team competes in the <a href="http://urc.marssociety.org/">University Rover Challenge</a>, held each year in May.</p>
 </section>
-<section class="home-bloglist">
-
-  <header>
-    <h1 class="page-heading">Recent Rover Reports</h1>
-  </header>
-  <section>
-  <ul class="post-list">
-    {% for post in site.posts %}
-      <li>
-        <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
-          &mdash;
-        <h2>
-          <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
-        </h2>
-        &mdash;
-        {{ post.excerpt | strip_html | trip_newlines | truncate: 156 }} <a class="post-readmore-link" href="{{ post.url | prepend: site.baseurl }}">Read More</a>
-      </li>
-    {% endfor %}
-  </ul>
-
-  <p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | prepend: site.baseurl }}">via RSS</a></p>
-  </section>
-</section>
