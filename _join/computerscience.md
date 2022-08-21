@@ -12,4 +12,4 @@ The Computer Science subteam is tasked with the design, development, implementat
 
 If you're an NIU student and any of that sounds interesting to you, reach out! We welcome members of any major or level of experience, and we do a Crash Course in ROS development every fall that covers all the basics.
 
-Students interested in joining can fill out the [CEET Student Interest Form](https://fs19.formsite.com/niuform/hnsslqzhsh/index.html). Choose the "Mars Rover Team" and make sure you include in the comment what subteams you're interested in participating in.
+Students interested in joining can fill out the [our Interest Form](https://forms.office.com/r/3GAwYTq6cD). From this, your student email will be added to our mailing list. 
