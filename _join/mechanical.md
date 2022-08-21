@@ -20,4 +20,4 @@ We strive to manufacture as much of our rover ourselves as possible, with most o
 
 Our team is newcomer friendly, and we're always looking for more help! Whether you're a first semester freshman with no experience or a second year graduate student, you're more than welcome to throw your ideas into the hat! 
 
-Students interested in joining can fill out the [CEET Student Interest Form](https://fs19.formsite.com/niuform/hnsslqzhsh/index.html). Choose the "Mars Rover Team" and make sure you include in the comment what subteams you're interested in participating in.
+Students interested in joining can fill out the [our Interest Form](https://forms.office.com/r/3GAwYTq6cD). From this, your student email will be added to our mailing list.
