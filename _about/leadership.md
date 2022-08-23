@@ -36,14 +36,21 @@ liprofile: true
   * Linguistics
 
 # 2022-2023 Team Leads
+
 ## Mechanical
 * Chris
 * Phillip
+
+
 ## Electrical
 * Alejandro
 * Adam
+
+
 ## Science Task
 * Leif Verace
+
+
 ## Programming
 * Drake Provost
 * Hal Brynteson
