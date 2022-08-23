@@ -5,33 +5,33 @@ permalink: /about/leadership/
 liprofile: true
 ---
 # 2022-2023 Officers
-* Iman Salehinia
-  * **Faculty Advisor**
+* **Faculty Advisor**
+  * Iman Salehinia
   * Assistant Professor
   * Mechanical Engineering
-* Hal Brynteson
-  * **President**
+* **President**
+  * Hal Brynteson
   * Senior
   * Computer Science
-* Ben McCune
-  * **Vice President**
+* **Vice President**
+  * Ben McCune
   * .
   * .
-* Michael Starasinch
-  * **Treasurer**
+* **Treasurer**
+  * Michael Starasinch
   * .
   * .
-* Leif Verace
-  * **Secretary**
+* **Secretary**
+  * Leif Verace
   * Senior
   * Biology & Mathematics
-* Raven Sonntag
-  * **Webmaster**
+* **Webmaster**
+  * Raven Sonntag
   * Master's Student
   * Linguistics
 
 # 2022-2023 Team Leads
-<center markdown="1">
+<div style="text-align: center;" markdown="1">
 ## Mechanical
 * Chris
   * Junior
@@ -73,4 +73,4 @@ liprofile: true
 * Hal Brynteson
   * Senior
   * Computer Science
-</center>
+</div>
