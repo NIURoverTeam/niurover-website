@@ -15,8 +15,8 @@ liprofile: true
   * Computer Science
 * **Vice President**
   * Ben McCune
-  * .
-  * .
+  * Sophomore
+  * Mechanical Engineering
 * **Treasurer**
   * Michael Starasinch
   * .
@@ -27,13 +27,13 @@ liprofile: true
   * Biology & Mathematics
 * **Webmaster**
   * Raven Sonntag
-  * Master's Student
+  * Grad Student
   * Linguistics
 
 # 2022-2023 Team Leads
-<div style="text-align: center;" markdown="1">
+<div style="text-align: center;">
 ## Mechanical
-* Chris
+* Chris English
   * Junior
   * Mechanical Engineering
 * Phillip
@@ -52,8 +52,8 @@ liprofile: true
 
 ## Science Task
 * Leif Verace
-  * .
-  * .
+  * Senior
+  * Biology & Mathematics
 
 
 ## Programming
@@ -64,11 +64,13 @@ liprofile: true
   * Senior
   * Computer Science
 * Raven Sonntag
+  * Grad Student
+  * Linguistics
 
 
 ## Outreach
 * Raven Sonntag
-  * Master's Student
+  * Grad Student
   * Linguistics
 * Hal Brynteson
   * Senior
