@@ -31,7 +31,7 @@ liprofile: true
   * Linguistics
 
 # 2022-2023 Team Leads
-<div style="text-align: center;">
+<div style="text-align: center;" markdown="1">
 ## Mechanical
 * Chris English
   * Junior
