@@ -4,11 +4,13 @@ layout: default
 <article class="post">
   <style>
     {% if page.liprofile %}
-    .post-content > ul, .post-content > div > ul { text-align: center }
-    .post-content > ul > li, .post-content > div > ul > li { vertical-align: bottom; height: 180px; width: 180px; display: inline-block; margin: 10px; padding: 20px; background: #eee; list-style: none; position: relative; }
+    .post-content > ul, .post-content > div > ul { text-align: center; padding-left: 0px; }
+    .post-content > ul > li, .post-content > div > ul > li { vertical-align: bottom; height: 180px; width: 180px; display: inline-block; margin: 10px; padding: 20px; list-style: none; position: relative; }
     li > ul > li { list-style: none; margin: 0px; margin-bottom: 10px; padding: 0px; }
     li > ul { margin: 0px; margin-top: 10px; padding: 0px; }
     /*li > ul > li:first-child img { position: absolute; top: 20px; left: 20px;width: 140px; height: 140px; border-radius: 70px; background: #aaa; }*/
+    .post-content h1, .post-content h2 { text-align: center; }
+    .post-content h1 { font-size: 1.75em; }
     {% endif %}
   </style>
   <header class="post-header" {% if page.cta_background %} style="background-image: linear-gradient(to right, rgba(221, 221, 221, 0.8) 0%, rgba(221, 221, 221, 0.8) 100%), url({{ page.cta_background }});" {% endif %}>
