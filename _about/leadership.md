@@ -35,24 +35,24 @@ liprofile: true
 * **Chris English**
   * Junior
   * Mechanical Engineering
-* **Phillip**
-  * .
-  * .
+* **Phillip Tomich**
+  * Senior
+  * Mechanical Engineering
 
 
 ## Electrical
 * **Alejandro Arreguin**
-  * .
+  * Sophomore
   * Electrical Engineering
 * **Adam Herman**
-  * .
+  * Sophomore
   * Electrical Engineering
 
 
 ## Science Task
 * **Leif Verace**
   * Senior
-  * Biology & Mathematics
+  * Biology & Computational Mathematics
 
 
 ## Programming
