@@ -5,74 +5,72 @@ permalink: /about/leadership/
 liprofile: true
 ---
 # 2022-2023 Officers
-* **Faculty Advisor**
-  * Iman Salehinia
+* **<u>Faculty Advisor</u>**
+  * **Iman Salehinia**
   * Assistant Professor
   * Mechanical Engineering
-* **President**
-  * Hal Brynteson
+* **<u>President</u>**
+  * **Hal Brynteson**
   * Senior
   * Computer Science
-* **Vice President**
-  * Ben McCune
+* **<u>Vice President</u>**
+  * **Ben McCune**
   * Sophomore
   * Mechanical Engineering
-* **Treasurer**
-  * Michael Starasinch
-  * .
-  * .
-* **Secretary**
-  * Leif Verace
+* **<u>Treasurer</u>**
+  * **Michael Starasinch**
+  * Sophomore
+  * Mechatronics Engineering
+* **<u>Secretary</u>**
+  * **Leif Verace**
   * Senior
-  * Biology & Mathematics
-* **Webmaster**
-  * Raven Sonntag
+  * Biology & Computational Mathematics
+* **<u>Webmaster</u>**
+  * **Raven Sonntag**
   * Grad Student
   * Linguistics
 
 # 2022-2023 Team Leads
-<div style="text-align: center;" markdown="1">
 ## Mechanical
-* Chris English
+* **Chris English**
   * Junior
   * Mechanical Engineering
-* Phillip
+* **Phillip**
   * .
   * .
 
 
 ## Electrical
-* Alejandro
+* **Alejandro Arreguin**
   * .
+  * Electrical Engineering
+* **Adam Herman**
   * .
-* Adam
-  * .
-  * .
+  * Electrical Engineering
 
 
 ## Science Task
-* Leif Verace
+* **Leif Verace**
   * Senior
   * Biology & Mathematics
 
 
 ## Programming
-* Drake Provost
+* **Drake Provost**
   * Senior
   * Computer Science
-* Hal Brynteson
+* **Hal Brynteson**
   * Senior
   * Computer Science
-* Raven Sonntag
+* **Raven Sonntag**
   * Grad Student
   * Linguistics
 
 
 ## Outreach
-* Raven Sonntag
+* **Raven Sonntag**
   * Grad Student
   * Linguistics
-* Hal Brynteson
+* **Hal Brynteson**
   * Senior
   * Computer Science
-</div>
