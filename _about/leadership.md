@@ -27,7 +27,7 @@ liprofile: true
   * Biology & Computational Mathematics
 * **<u>Webmaster</u>**
   * **Raven Sonntag**
-  * Grad Student
+  * Graduate Student
   * Linguistics
 
 # 2022-2023 Team Leads
@@ -69,7 +69,7 @@ liprofile: true
 
 ## Outreach
 * **Raven Sonntag**
-  * Grad Student
+  * Graduate Student
   * Linguistics
 * **Hal Brynteson**
   * Senior
