@@ -18,7 +18,7 @@ liprofile: true
   * Sophomore
   * Mechanical Engineering
 * **<u>Treasurer</u>**
-  * **Michael Starasinch**
+  * **Michael Starasinich**
   * Sophomore
   * Mechatronics Engineering
 * **<u>Secretary</u>**
