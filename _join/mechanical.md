@@ -20,4 +20,4 @@ We strive to manufacture as much of our rover ourselves as possible, with most o
 
 Our team is newcomer friendly, and we're always looking for more help! Whether you're a first semester freshman with no experience or a second year graduate student, you're more than welcome to throw your ideas into the hat! 
 
-Students interested in joining can fill out the [our Interest Form](https://forms.office.com/r/3GAwYTq6cD). From this, your student email will be added to our mailing list.
+Students interested in joining can fill out the [our Interest Form](https://forms.office.com/Pages/ResponsePage.aspx?id=kDOH6hyMMUKnmWtaAjWy5p6spiA05yZBk7bWP9yzOp9UN0ZYTUhCOU02VlFQMVRPUEc2Mk1aQjlTRS4u). From this, your student email will be added to our mailing list. 

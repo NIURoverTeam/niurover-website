@@ -12,4 +12,4 @@ The Computer Science subteam is tasked with the design, development, implementat
 
 If you're an NIU student and any of that sounds interesting to you, reach out! We welcome members of any major or level of experience, and we do a Crash Course in ROS development every fall that covers all the basics.
 
-Students interested in joining can fill out the [our Interest Form](https://forms.office.com/r/3GAwYTq6cD). From this, your student email will be added to our mailing list. 
+Students interested in joining can fill out the [our Interest Form](https://forms.office.com/Pages/ResponsePage.aspx?id=kDOH6hyMMUKnmWtaAjWy5p6spiA05yZBk7bWP9yzOp9UN0ZYTUhCOU02VlFQMVRPUEc2Mk1aQjlTRS4u). From this, your student email will be added to our mailing list. 

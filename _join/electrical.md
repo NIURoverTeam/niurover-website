@@ -14,4 +14,4 @@ Members can expect to gain experience with wiring, circuit analysis and design, 
 
 We are looking for people who have experience in building robotics or electrical systems, Physics Majors, Computer Science Majors, Electrical Engineering, and Electrical Engineering Tech Majors. All levels of experience are, of course, welcome.
 
-Students interested in joining can fill out the [our Interest Form](https://forms.office.com/r/3GAwYTq6cD). From this, your student email will be added to our mailing list.
+Students interested in joining can fill out the [our Interest Form](https://forms.office.com/Pages/ResponsePage.aspx?id=kDOH6hyMMUKnmWtaAjWy5p6spiA05yZBk7bWP9yzOp9UN0ZYTUhCOU02VlFQMVRPUEc2Mk1aQjlTRS4u). From this, your student email will be added to our mailing list. 
