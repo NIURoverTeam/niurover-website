@@ -10,9 +10,9 @@ liprofile: true
   * Assistant Professor
   * Mechanical Engineering
 * **<u>President</u>**
-  * **Hal Brynteson**
-  * Senior
-  * Computer Science
+  * **Chris English**
+  * Graduate Student
+  * Mechanical Engineering
 * **<u>Vice President</u>**
   * **Ben McCune**
   * Sophomore
