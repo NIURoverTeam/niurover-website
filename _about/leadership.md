@@ -4,73 +4,55 @@ title: Leadership
 permalink: /about/leadership/
 liprofile: true
 ---
-# 2022-2023 Officers
+# 2023-2024 Officers
 * **<u>Faculty Advisor</u>**
   * **Iman Salehinia**
-  * Assistant Professor
+  * Associate Professor
   * Mechanical Engineering
 * **<u>President</u>**
   * **Chris English**
   * Graduate Student
   * Mechanical Engineering
 * **<u>Vice President</u>**
-  * **Ben McCune**
+  * **Ben Crowninshield**
+  * Senior
+  * Mechatronics Engineering
+* **<u>Treasurer</u>**
+  * **J.C. La Barbera**
   * Sophomore
   * Mechanical Engineering
-* **<u>Treasurer</u>**
-  * **Michael Starasinich**
-  * Sophomore
-  * Mechatronics Engineering
 * **<u>Secretary</u>**
-  * **Leif Verace**
-  * Senior
-  * Biology & Computational Mathematics
+  * **Fae Boni**
+  * Junior
+  * Biomedical Engineering
 * **<u>Webmaster</u>**
-  * **Raven Sonntag**
+  * **Drew DePalma**
+  * Senior
+  * Mechanical Engineering
+
+# 2023-2024 Team Leads
+## Mechanical
+* **Ben Crowninshield**
+  * Senior
+  * Mechatronics Engineering
+* **Drew DePalma**
+  * Senior
+  * Mechanical Engineering
+
+## Electrical & Programming
+* **Alejandro Arreguin**
+  * Junior
+  * Electrical Engineering
+* **Waverly Sonntag**
   * Graduate Student
   * Linguistics
-
-# 2022-2023 Team Leads
-## Mechanical
-* **Chris English**
-  * Junior
-  * Mechanical Engineering
-* **Phillip Tomich**
-  * Senior
-  * Mechanical Engineering
-
-
-## Electrical
-* **Alejandro Arreguin**
-  * Sophomore
-  * Electrical Engineering
-* **Adam Herman**
-  * Sophomore
-  * Electrical Engineering
-
 
 ## Science Task
-* **Leif Verace**
-  * Senior
-  * Biology & Computational Mathematics
-
-
-## Programming
-* **Drake Provost**
-  * Senior
-  * Computer Science
-* **Hal Brynteson**
-  * Senior
-  * Computer Science
-* **Raven Sonntag**
-  * Grad Student
-  * Linguistics
-
+* **Fae Boni**
+  * Junior
+  * Biomedical Engineering
 
 ## Outreach
-* **Raven Sonntag**
-  * Graduate Student
-  * Linguistics
-* **Hal Brynteson**
-  * Senior
-  * Computer Science
+  * **J.C. La Barbera**
+  * Sophomore
+  * Mechanical Engineering
