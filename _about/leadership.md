@@ -53,6 +53,6 @@ liprofile: true
   * Biomedical Engineering
 
 ## Outreach
-  * **J.C. La Barbera**
+* **J.C. La Barbera**
   * Sophomore
   * Mechanical Engineering
