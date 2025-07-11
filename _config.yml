@@ -11,7 +11,7 @@ email: niurover@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
   Open to all majors, the NIU Mars Rover team is a student organization in NIU’s College of Engineering and Engineering Technology. This team offers students education and experience relating to the design, fabrication, and integration of mechanical, electrical, and computer systems relevant to our rover’s operation. Our main competition is the University Rover Challenge, held each year in May.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://niurover.com" # the base hostname & protocol for your site
+url: "https://niuroverteam.github.io/niurover-website/" # the base hostname & protocol for your site
 
 # Build settings
 markdown: kramdown
